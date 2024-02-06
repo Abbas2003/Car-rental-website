@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-img {
+    background-image: url('https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?w=1380&t=st=1707130703~exp=1707131303~hmac=82bfb0616222af96cb3a4fd99c9039c6469163f90c7054a0593c46a381765e64');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.nav-top {
+    height: 40px;
+    background-color: #192A30;
+    font-size: 1rem;
+}
+.section2 {
+    height: 100vh;
+    background-color: #192A30;
+}
+.h-color {
+    color: rgb(254,205,165);
+}
+.button {
+    border: 1px solid black;
+    width: 170px;    
+    padding: 10px 16px;
+    font-size: 1rem;
+    color: white;
+    background-color: darkslategrey;
+}
+ul li {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: gray;
+}
